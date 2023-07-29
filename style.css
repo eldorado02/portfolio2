@@ -1,5 +1,7 @@
 .navbar{
+  display: flex;
   background-color: black;
+  color: red;
 }
 .container{
   color: red;
