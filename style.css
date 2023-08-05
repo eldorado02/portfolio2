@@ -1,10 +1,14 @@
+* {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+}
 .navbar{
   display: flex;
   background-color: black;
-  color: red;
 }
 .container{
-  color: red;
+  
   
 }
 .lien{
