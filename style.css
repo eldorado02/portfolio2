@@ -1,11 +1,11 @@
 * {
-  color: white;
+  color: #191b26;
   text-decoration: none;
   list-style: none;
 }
 .navbar{
   display: flex;
-  background-color: black;
+  background-color: #ffffff;
 }
 .container{
   
